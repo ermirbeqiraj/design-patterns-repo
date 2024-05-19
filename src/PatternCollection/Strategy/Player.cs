@@ -14,7 +14,3 @@ public abstract class Player
     }
 }
 
-public sealed class OfflinePlayer : Player { }
-
-public sealed class OnlinePlayer : Player { }
-
